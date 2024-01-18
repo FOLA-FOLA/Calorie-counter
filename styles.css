@@ -1,0 +1,49 @@
+body {
+    box-sizing: border-box;
+    background-color: beige;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.container {
+    margin: 20%;
+}
+.controls {
+
+}
+fieldset {
+    border-radius: 50cm;
+    background-color: blanchedalmond;
+    color: black;
+    padding-bottom: 0.1cm;
+    margin-bottom: 0.5cm;
+    height: 1cm;
+}
+select {
+    background-color: aliceblue;
+    border-color: none;
+}
+input {
+    border: none;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+}
+button {
+    border: none;
+    background-color: orangered;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+select {
+    border: none;
+    background-color: white;
+    color: black;
+    border-radius: 10px;
+    width: 150px;
+    padding: 10px;
+}
+label {
+    margin-bottom: 10px;
+}
